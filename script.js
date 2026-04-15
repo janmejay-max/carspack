@@ -349,15 +349,15 @@ const reviews = [
 const brands = [...new Set(cars.map((car) => car.brand))];
 
 const brandLogoMap = {
-  'Maruti Suzuki': 'assets/brands/maruti-suzuki.jpeg',
-  Tata: 'assets/brands/tata.jpeg',
-  Mahindra: 'assets/brands/mahindra.jpeg',
-  Hyundai: 'assets/brands/hyundai.jpeg',
-  Toyota: 'assets/brands/toyota.jpeg',
-  Kia: 'assets/brands/kia.jpeg',
-  Skoda: 'assets/brands/skoda.jpeg',
-  BMW: 'assets/brands/bmw.jpeg',
-  Renault: 'assets/brands/renault.jpeg',
+  'Maruti Suzuki': 'car-web-pro/assets/brands/maruti-suzuki.jpeg',
+  Tata: 'car-web-pro/assets/brands/tata.jpeg',
+  Mahindra: 'car-web-pro/assets/brands/mahindra.jpeg',
+  Hyundai: 'car-web-pro/assets/brands/hyundai.jpeg',
+  Toyota: 'car-web-pro/assets/brands/toyota.jpeg',
+  Kia: 'car-web-pro/assets/brands/kia.jpeg',
+  Skoda: 'car-web-pro/assets/brands/skoda.jpeg',
+  BMW: 'car-web-pro/assets/brands/bmw.jpeg',
+  Renault: 'car-web-pro/assets/brands/renault.jpeg',
 };
 
 const brandWebsiteMap = {
